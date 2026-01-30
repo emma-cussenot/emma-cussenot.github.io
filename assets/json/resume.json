@@ -1,6 +1,6 @@
 {
-  "general_information": {
-    "name": "Julie ALberge",
+  "general": {
+    "name": "Julie Alberge",
     "title": "PhD Student in Machine Learning",
     "date_of_birth": "1999-05-05",
     "label": "",
@@ -17,7 +17,7 @@
       "area": "Machine Learning and Applied Mathematics",
       "studyType": "PhD",
       "startDate": "2023-10-01",
-      "endDate": "2026-09-30"
+      "endDate": ""
     },
     {
       "institution": "Ecole Des Ponts ParisTech",
@@ -27,11 +27,11 @@
       "endDate": "2023"
     },
     {
-      "institution": "ENS De Cachan",
+      "institution": "ENS De Paris Saclay",
       "location": "France",
       "studyType": "Master Mathematiques Vision et Apprentissage (MVA)",
       "startDate": "2023",
-      "endDate": ""
+      "endDate": "2023"
     }
   ],
   "languages": [

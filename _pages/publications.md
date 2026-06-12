@@ -11,6 +11,9 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+{% comment %}
+The bibliography tag is processed during the build step using the GitHub Actions workflow.
+It will be generated from the papers.bib file in the _bibliography directory.
+{% endcomment %}
 
 </div>

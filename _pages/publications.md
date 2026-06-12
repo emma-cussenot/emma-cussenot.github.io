@@ -11,6 +11,10 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+{% for entry in site.bibliography %}
+  {% if entry[1].bibtex_show %}
+    {% include bib.liquid entry=entry %}
+  {% endif %}
+{% endfor %}
 
 </div>

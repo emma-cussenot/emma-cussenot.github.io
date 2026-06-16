@@ -1,8 +1,8 @@
 {
   "general": {
-    "name": "Julie Alberge",
-    "title": "PhD Student in Machine Learning",
-    "date_of_birth": "1999-05-05",
+    "name": "Emma Cussenot",
+    "title": "PhD Student in Machine Learning & Health",
+    "date_of_birth": "",
     "label": "",
     "image": "",
     "email": "",
@@ -14,24 +14,24 @@
     {
       "institution": "Inria de Saclay",
       "location": "France",
-      "area": "Machine Learning and Applied Mathematics",
+      "area": "Machine Learning and Applied Mathematics for Health Applications",
       "studyType": "PhD",
-      "startDate": "2023-10-01",
+      "startDate": "2025-12-01",
       "endDate": ""
     },
     {
-      "institution": "Ecole Des Ponts ParisTech",
-      "location": "Champs-sur-Marne, France",
-      "studyType": "Engeenering Degree",
-      "startDate": "2019",
-      "endDate": "2023"
+      "institution": "CentraleSupélec",
+      "location": "Université Paris-Saclay, France",
+      "studyType": "Engineering Degree (MSc)",
+      "startDate": "2021",
+      "endDate": "2025"
     },
     {
-      "institution": "ENS De Paris Saclay",
+      "institution": "Université Paris-Nanterre",
       "location": "France",
-      "studyType": "Master Mathematiques Vision et Apprentissage (MVA)",
+      "studyType": "Philosophy Degree (Bachelor)",
       "startDate": "2023",
-      "endDate": "2023"
+      "endDate": "2024"
     }
   ],
   "languages": [

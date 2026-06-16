@@ -14,16 +14,24 @@
     {
       "institution": "Inria de Saclay",
       "location": "France",
-      "area": "Machine Learning and Applied Mathematics for Health Applications",
+      "area": "Machine Learning and Applied Mathematics for Health Applications \n Survival Analysis, Causality, Tabular data",
       "studyType": "PhD",
       "startDate": "2025-12-01",
       "endDate": ""
     },
     {
-      "institution": "CentraleSupélec",
-      "location": "Université Paris-Saclay, France",
+      "institution": "CentraleSupélec, Université Paris-Saclay",
+      "location": "France",
       "studyType": "Engineering Degree (MSc)",
+      "area": "Applied Mathematics, Physics, Statistics, Innovation, Project Management",
       "startDate": "2021",
+      "endDate": "2025"
+    },
+    {
+      "institution": "IFSBM, Institut Gustave Roussy",
+      "location": "Université Paris-Saclay",
+      "studyType": "Medical Science and Innovation, Hospital Management training",
+      "startDate": "2024",
       "endDate": "2025"
     },
     {
@@ -32,6 +40,22 @@
       "studyType": "Philosophy Degree (Bachelor)",
       "startDate": "2023",
       "endDate": "2024"
+    }
+  ],
+  "experience": [
+    {
+      "company": "EDF R&D",
+      "position": "Intern",
+      "area": "Uncertainty Quantification for Critical Systems",
+      "startDate": "2024",
+      "endDate": "2024"
+    },
+    {
+      "company": "LMU Munich, Germany",
+      "position": "Intern",
+      "area": "Quantum Simulation with Cold Atoms",
+      "startDate": "2022",
+      "endDate": "2023"
     }
   ],
   "languages": [

@@ -1,0 +1,49 @@
+{
+  "general": {
+    "name": "Julie Alberge",
+    "title": "PhD Student in Machine Learning",
+    "date_of_birth": "1999-05-05",
+    "label": "",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": ""
+  },
+  "education": [
+    {
+      "institution": "Inria de Saclay",
+      "location": "France",
+      "area": "Machine Learning and Applied Mathematics",
+      "studyType": "PhD",
+      "startDate": "2023-10-01",
+      "endDate": ""
+    },
+    {
+      "institution": "Ecole Des Ponts ParisTech",
+      "location": "Champs-sur-Marne, France",
+      "studyType": "Engeenering Degree",
+      "startDate": "2019",
+      "endDate": "2023"
+    },
+    {
+      "institution": "ENS De Paris Saclay",
+      "location": "France",
+      "studyType": "Master Mathematiques Vision et Apprentissage (MVA)",
+      "startDate": "2023",
+      "endDate": "2023"
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ]
+}

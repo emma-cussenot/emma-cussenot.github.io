@@ -7,4 +7,5 @@ related_posts: false
 
 **Cardiovascular risk:**
 Talk given at the [Immediab](https://www.immediab.com/) lab seminar.
+
 Presented our work on cardiovascular risk prediction in Type 2 Diabetes!

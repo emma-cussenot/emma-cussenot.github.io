@@ -66,7 +66,7 @@
       "location": "Munich",
       "startDate": "2023",
       "endDate": "2023",
-      "summary": "Quantum Simulation with Cold Atoms"
+      "summary": "Quantum Simulation with Ultra-Cold Caesium Atoms"
     },
     {
       "name": "LuMIn",
@@ -74,7 +74,7 @@
       "location": "Paris-Saclay",
       "startDate": "2022",
       "endDate": "2021",
-      "summary": "Multihysics simulations for laser-induced gene therapy"
+      "summary": "Multihysics simulations for laser-induced gene therapy using gold nanoparticles"
     }
   ]
 }

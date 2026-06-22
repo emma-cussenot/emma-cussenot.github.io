@@ -1,10 +1,11 @@
 ---
 layout: post
-date: 2024-10-29 00:00:00-0400
+date: 2026-04-08 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
+**Cardiovascular risk:**
+Talk given at the 4th [Intercept-T2D](https://www.immediab.com/) consortium meeting in Verona (Italy).
 
-**Survival Models:**
-I've talk about our article for the [BIOSTAT team](https://www.epfl.ch/labs/biostat/biostat-chair-of-biostatistics/members/) at EPFL. 
+Presented our work on cardiovascular risk prediction in Type 2 Diabetes to all the biologists and clinicians involved in the European research project that brings us together for the study of inflammation in diabetes.

@@ -39,6 +39,7 @@
       "institution": "Université Paris-Nanterre",
       "location": "France",
       "studyType": "Philosophy Degree (Bachelor)",
+      "area": "General Philosophy, Ethics, Epistemology",
       "startDate": "2023",
       "endDate": "2024"
     },
@@ -74,18 +75,6 @@
       "startDate": "2022",
       "endDate": "2021",
       "summary": "Multihysics simulations for laser-induced gene therapy"
-    }
-  ],
-  "languages": [
-    {
-      "language": "French",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
     }
   ]
 }

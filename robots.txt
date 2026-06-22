@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://emma-cussenot.github.io/sitemap.xml
